@@ -16,8 +16,8 @@ struct node
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name			:	AddToListFirst
-//	Function Date			:	08/11/2013
-//	Function Author		:	Piyush Khairnar
+//	Function Date			:	08/11/2018
+//	Function Author		:	Babasaheb Argade
 //	Parameters:
 //
 //		[IN/OUT] node **ppListHead.
@@ -87,8 +87,8 @@ AddToListFirst (
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	AddToListLast
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //
 //		[IN/OUT] node **ppListHead.
@@ -166,8 +166,8 @@ AddToListLast (
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	FreeList
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	babasaheb Argade
 //	Parameters:
 //			[IN] node *pListHead.
 //			Holds head pointer of list.
@@ -211,8 +211,8 @@ FreeList(
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	DisplayList
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //			[IN] node *pListHead.
 //			Holds head pointer of list.
@@ -241,8 +241,8 @@ DisplayList(
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	CountListNode
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //			[IN] node *pListHead.
 //			Holds head pointer of list.
@@ -276,8 +276,8 @@ int CountListNode (
 ////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	SearchFirstOccurance
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //			[IN] node *pListHead.
 //			Holds head pointer of list.
@@ -322,8 +322,8 @@ int SearchFirstOccurance(
 ////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	SearchAllOccurance
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //			[IN] node *pListHead.
 //			Holds head pointer of list.
@@ -368,7 +368,7 @@ int SearchAllOccurance(
 //
 //	Function Name		:	InsertAtPosition
 //	Function Date			:	08/11/2013
-//	Function Author		:	Piyush Khairnar
+//	Function Author		:	Babasaheb Argade
 //	Parameters:
 //
 //		[IN/OUT] node **ppListHead.
@@ -454,8 +454,8 @@ int  InsertAtPosition(
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	DeleteFromListFirst
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //
 //	Parameters:
 //
@@ -497,8 +497,8 @@ int  DeleteFromListFirst(
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	DeleteFromListLast
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //
 //		[IN/OUT] node **ppListHead.
@@ -544,8 +544,8 @@ int  DeleteFromListLast(
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	DeleteAtPosition
-//	Function Date			:	08/11/2013
-//	Function Author		:	Piyush Khairnar
+//	Function Date			:	08/11/2018
+//	Function Author		:	Babasaheb Argade
 //	Parameters:
 //
 //		[IN/OUT] node **ppListHead.
@@ -602,8 +602,8 @@ int  DeleteAtPosition(
 ///////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function Name		:	DisplayListReverse
-//	Function Date		:	08/11/2013
-//	Function Author	:	Piyush Khairnar
+//	Function Date		:	08/11/2018
+//	Function Author	:	Babasaheb Argade
 //	Parameters:
 //			[IN] node *pListHead.
 //			Holds head pointer of list.
@@ -644,7 +644,7 @@ DisplayListReverse(
 //
 //	Function Name		:	Entry point function
 //	Function Date			:	08/11/2013
-//	Function Author		:	Piyush Khairnar
+//	Function Author		:	Babasaheb Argade
 //	Brief Description	:	
 //
 ///////////////////////////////////////////////////////////////////////////////////////////
