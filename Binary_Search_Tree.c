@@ -3,7 +3,27 @@
 // Program which is used to demonstrate working of Binary Search Tree
 //
 /////////////////////////////////////////////////////////////////////////////////////
+/*! \brief
+--------------------------------------------------------------------
 
+PROJECT         : 
+
+FILE            :Binary_Search_Tree.c
+
+AUTHOR          : Babasaheb Argade
+
+CREATION DATE   : 
+
+COMPILER        : VC
+
+HW PLATFORM     : PC
+
+OPERATING-SYS   : None
+
+--------------------------------------------------------------------
+
+(C) 
+*/
 #include <stdio.h>
 #include <conio.h>
 #include <malloc.h>
